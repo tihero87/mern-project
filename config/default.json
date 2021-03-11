@@ -1,0 +1,6 @@
+{
+  "port": 5555,
+  "jwtSecret": "Sergey Kyulmyasu",
+  "mongoUri": "mongodb+srv://tihero:1234qwer@cluster0.duw8o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+}
